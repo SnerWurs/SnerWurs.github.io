@@ -27,7 +27,7 @@ h1 {
 }
 
 .header {
-  
+  position: fixed;
   margin: 0 auto;
   text-align: left;
   width: 100%;
