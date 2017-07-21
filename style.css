@@ -18,6 +18,8 @@ h1 {
   
 }
 
+
+
 .header h1{
   color: #ffe200;
   display: inline;
@@ -34,7 +36,9 @@ h1 {
   background-color: black;
 }
 .header img {
-  
+  height: 80px;
+  width: 80px;
+  border-radius: 30px;
 }
 
 .header h3{
