@@ -22,7 +22,7 @@ h1 {
   color: #ffe200;
   display: inline;
   position: relative;
-  left: 50px
+  left: 50px;
   
 }
 
@@ -31,6 +31,7 @@ h1 {
   margin: 0 auto;
   text-align: left;
   width: 100%;
+  background-color: black;
 }
 .header img {
   
@@ -55,10 +56,15 @@ h1 {
   
 }
 
-.icon {
-  
+.post {
+    
 }
-
+.post img 
+{
+    height: 100px;
+    width: 100px;
+    border-radius: 30px;
+}
 #binks {
   Width: 120px;
   Height: 250px;
